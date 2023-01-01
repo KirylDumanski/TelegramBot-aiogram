@@ -10,4 +10,3 @@ async def start(message: types.Message, state: FSMContext):
     await state.finish()
     user_full_name = message.from_user.full_name
     await message.reply(f'Привет, {user_full_name}! Рад видеть тебя! Сделай выбор.', reply_markup=kb_main_menu)
-

@@ -1,5 +1,6 @@
 import sqlite3
 
+
 def connectDb():
     connection = sqlite3.connect('db.db')
     cursor = connection.cursor()
