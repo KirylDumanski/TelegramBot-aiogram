@@ -44,7 +44,7 @@ Documentation is an essential guide with actual examples and comprehensive descr
 ## Installation and run guide
 1. Clone git repository:
 ```
-https://github.com/KirylDumanski/WeatherCurrencyTGBot.git
+https://github.com/KirylDumanski/aiogram-weather-currency-bot.git
 ```
 2. Execute in terminal:
 ```
